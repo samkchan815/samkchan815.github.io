@@ -24,6 +24,7 @@ Using the DermaMNIST dataset, this project uses a convolutional neural network t
 - M.S., Health Data Science	| University of California, San Francisco (_June 2026_)	 			        		
 - B.S., Biomolecular Engineering and Bioinformatics| University of California, Santa Cruz (_June 2024_)
 
+
 ## Work Experience
 **Graduate Researcher @ University of California - San Francisco Morrison Lab (_May 2025 - Present_)**
 - Mapped imaging-derived features onto a standardized brain atlas and applied regularized regression models (Lasso and Ridge) to generate
@@ -59,8 +60,3 @@ therapy data, improving predictive performance for movement trajectories.
 - Optimized and validated biomechanics machine learning models using statistical models in Scikit-learn.
 - Created Python 3D visualization tools with Matplotlib and NumPy on Ubuntu to plot positional and rotational vectors and trajectories,
 enabling faster analysis of VR and physical therapy biomechanics data.
-
-
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
