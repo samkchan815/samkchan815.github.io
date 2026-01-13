@@ -30,13 +30,6 @@ This project analyzes the Parkinson’s Telemonitoring dataset, which consists o
 [View Report Here](https://samkchan815.github.io/projects/Parkinsons_Telemonitoring_SVR.html)
 
 
-### Musical Instrument Major and Minor Chord Classification
-
-This project explores deep learning–based classification of guitar chords using audio-derived spectrograms. I designed and implemented an end-to-end pipeline that converts raw audio recordings into time–frequency representations and trains a convolutional neural network to distinguish between major and minor chords. The current implementation focuses on isolated chord samples to establish a reliable baseline model and evaluation framework. Future extensions of this work will expand the model to operate on full song audio, incorporating temporal segmentation and sliding-window inference to predict chord progressions over time.
-
-[Github Repository](https://github.com/samkchan815/Chord-Classification)
-
-
 ## Education								       		
 - M.S., Health Data Science	| University of California, San Francisco (_June 2026_)	 			        		
 - B.S., Biomolecular Engineering and Bioinformatics | University of California, Santa Cruz (_June 2024_)
