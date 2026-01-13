@@ -43,19 +43,19 @@ This project explores deep learning–based classification of guitar chords usin
 
 
 ## Work Experience
-**Graduate Researcher @ University of California - San Francisco Morrison Lab (_May 2025 - Present_)**
+**Graduate Researcher @ UCSF Morrison Lab (_May 2025 - Present_)**
 - Mapped imaging-derived features onto a standardized brain atlas and applied regularized regression models (Lasso and Ridge) to generate
 and evaluate predictive associations between brain regions and outcome measures.
 - Developed an image pre-processing workflow to ensure consistent orientation, spacing, and coordinate frame mapping between multimodal
 medical images using ANTs and ITK Python packages.
 - Generated deep brain stimulation electrode segmentations in postoperative CT scans of Parkinson's patients using ITK-SNAP, including manual electrode delineation to establish ground truth and perform QA validation, enabling accurate downstream computational models.
 
-**Graduate Reseacher @ University of California - San Francisco Wilder Lab (_January 2025 - March 2025_)**
+**Graduate Reseacher @ UCSF Wilder Lab (_January 2025 - March 2025_)**
 - Integrated large-scale ChIP-seq and RNA-seq datasets using Python and Bash and developed interactive gene expression visualizations that
 accelerated identification of regulatory dynamics across time points.
 - Automated RNA-seq analysis using Pandas, Matplotlib, and reproducible Python workflows.
 
-**Microscopy Data Analyst @ University of California - Santa Cruz Gomez Lab (_January 2024 - March 2025_)**
+**Microscopy Data Analyst @ UCSC Gomez Lab (_January 2024 - March 2025_)**
 - Developed a TensorFlow deep learning model with a CNN architecture, skip connections, and dice loss to segment nerve fibers in pig tissue
 images, achieving accurate segmentation that enabled downstream quantitative analysis.
 - Conducted comprehensive image analysis using Python programming to determine optimal denoising filters to improve image quality,
@@ -65,7 +65,7 @@ Matplotlib.
 - Created a preprocessing pipeline for the analysis of fiber lengths and angles in microscopy images. Extracted, cleaned, processed, and
 analyzed collagen fiber data using Python Pandas package and created visualizations and plots using matplotlib.
 
-**Machine Learning Undergraduate Researcher @ University of California - Santa Cruz Braingeneers Group (_September 2023 - March 2024_)**
+**Machine Learning Undergraduate Researcher @ UCSC Braingeneers Group (_September 2023 - March 2024_)**
 - Built an internal Python-based LLM system using PyTorch and Retrieval-Augmented Generation (RAG) to surface lab-specific
 documentation and experimental knowledge, reducing time spent searching for internal resources.
 - Implemented an MQTT bridge between Slack and a large language model to allow for AI responses through Slack channels.
@@ -78,7 +78,7 @@ therapy data, improving predictive performance for movement trajectories.
 enabling faster analysis of VR and physical therapy biomechanics data.
 
 ## Teaching
-**Teaching Assistant @ University of California San Francisco(Winter 2026)**
+**Teaching Assistant @ University of California San Francisco (Winter 2026)**
 DATASCI 223: Applied Data Science with Python
 
 **Private Tutor (March 2023 - Present)**
