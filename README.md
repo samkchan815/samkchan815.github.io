@@ -10,14 +10,14 @@ The nerve segmentation analysis involved developing a comprehensive image analys
 
 ### DermaMNIST Multi_Class Classification
 
-[View Project Here]()
+[View Project Here](DermaMNIST Multi-Class Classification.html)
 
 Using the DermaMNIST dataset, this project uses a convolutional neural network to classify dermatological images into seven skin lesion categories. The dataset contains approximately 10,000 dermatoscope images. The CNN utilizes convolutional and pooling layers for hierarchical feature extraction, combined with activation functions and dropout layers to improve learning and prevent overfitting.
 
 
 ### Parkinson's Telemonitoring
 
-[View Report Here]()
+[View Report Here](Parkinsons Telemonitor Analysis.ipynb)
 
 This project analyzes the Parkinson’s Telemonitoring dataset, which consists of biomedical voice measurements collected from 42 individuals with early-stage Parkinson’s disease enrolled in a six-month remote monitoring trial. Through feature selection and exploratory data analysis, key vocal biomarkers associated with disease severity were identified. Support Vector Regression (SVR) was then applied to predict the Total Unified Parkinson’s Disease Rating Scale (UPDRS) score, demonstrating the potential of voice-based signals for tracking disease progression in a telehealth setting.
 
