@@ -15,14 +15,21 @@ Using the DermaMNIST dataset, this project uses a convolutional neural network t
 
 ### Parkinson's Telemonitoring
 
+[View Report Here]()
+
+This project analyzes the Parkinson’s Telemonitoring dataset, which consists of biomedical voice measurements collected from 42 individuals with early-stage Parkinson’s disease enrolled in a six-month remote monitoring trial. Through feature selection and exploratory data analysis, key vocal biomarkers associated with disease severity were identified. Support Vector Regression (SVR) was then applied to predict the Total Unified Parkinson’s Disease Rating Scale (UPDRS) score, demonstrating the potential of voice-based signals for tracking disease progression in a telehealth setting.
+
 
 ### Musical Instrument Major and Minor Chord Classification
 
+[Github Repository]()
+
+This project explores deep learning–based classification of guitar chords using audio-derived spectrograms. I designed and implemented an end-to-end pipeline that converts raw audio recordings into time–frequency representations and trains a convolutional neural network to distinguish between major and minor chords. The current implementation focuses on isolated chord samples to establish a reliable baseline model and evaluation framework. Future extensions of this work will expand the model to operate on full song audio, incorporating temporal segmentation and sliding-window inference to predict chord progressions over time.
 
 
 ## Education								       		
 - M.S., Health Data Science	| University of California, San Francisco (_June 2026_)	 			        		
-- B.S., Biomolecular Engineering and Bioinformatics| University of California, Santa Cruz (_June 2024_)
+- B.S., Biomolecular Engineering and Bioinformatics | University of California, Santa Cruz (_June 2024_)
 
 
 ## Work Experience
@@ -31,8 +38,7 @@ Using the DermaMNIST dataset, this project uses a convolutional neural network t
 and evaluate predictive associations between brain regions and outcome measures.
 - Developed an image pre-processing workflow to ensure consistent orientation, spacing, and coordinate frame mapping between multimodal
 medical images using ANTs and ITK Python packages.
-- Generated deep brain stimulation electrode segmentations in postoperative CT scans using ITK-SNAP, including manual electrode
-delineation to establish ground truth and perform QA validation, enabling accurate downstream computational models.
+- Generated deep brain stimulation electrode segmentations in postoperative CT scans of Parkinson's patients using ITK-SNAP, including manual electrode delineation to establish ground truth and perform QA validation, enabling accurate downstream computational models.
 
 **Graduate Reseacher @ University of California - San Francisco Wilder Lab (_January 2025 - March 2025_)**
 - Integrated large-scale ChIP-seq and RNA-seq datasets using Python and Bash and developed interactive gene expression visualizations that
@@ -60,3 +66,11 @@ therapy data, improving predictive performance for movement trajectories.
 - Optimized and validated biomechanics machine learning models using statistical models in Scikit-learn.
 - Created Python 3D visualization tools with Matplotlib and NumPy on Ubuntu to plot positional and rotational vectors and trajectories,
 enabling faster analysis of VR and physical therapy biomechanics data.
+
+## Teaching
+**Teaching Assistant @ University of California San Francisco(Winter 2026)**
+DATASCI 223: Applied Data Science with Python
+
+**Private Tutor (March 2023 - Present)**
+Provide targeted English reading, speaking, and listening instruction that helped two students successfully pass the California English Language Proficiency Assessments (ELPAC).
+
