@@ -4,5 +4,5 @@ url: "https://samkchan815.github.io"   # your site URL
 baseurl: ""               # leave empty for user site, '/repo' for project site
 author: Samantha Chan
 email: samantha.chan2@ucsf.edu
-logo: ""
+logo: "/images/schan_pfp.jpg"
 
