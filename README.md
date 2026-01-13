@@ -27,7 +27,7 @@ This project analyzes the Parkinson’s Telemonitoring dataset, which consists o
 
 ![svr](images/svr.png)
 
-[View Report Here](https://samkchan815.github.io/projects/Parkinsons_Telemonitoring_SVR.ipynb)
+[View Report Here](https://samkchan815.github.io/projects/Parkinsons_Telemonitoring_SVR.html)
 
 
 ### Musical Instrument Major and Minor Chord Classification
