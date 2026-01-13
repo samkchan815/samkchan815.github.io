@@ -4,19 +4,20 @@ My name is Samantha Chan and I am currently a Health Data Science Master's stude
 
 ## Projects
 ### Da Vinci Nerve Fiber Microscopy Image Analysis
+![Nerve Fiber Image](images/innervation.png)
 [Github Repository](https://github.com/Gomez-Lab/Neuronal-Image-Processing)
 
 The nerve segmentation analysis involved developing a comprehensive image analysis pipeline to quantify nerve fibers in pig skin microscopy images. Approximately 100 raw z-stack tissue images were first preprocessed to enhance quality and consistency, testing multiple denoising and normalization methods to determine optimal approaches. Downstream analyses extracted quantitative metrics such as fiber density, length, and orientation. The pipeline integrated image preprocessing, segmentation, and statistical analysis, allowing reproducible and scalable evaluation of nerve morphology for research and computational modeling.
 
 ### DermaMNIST Multi_Class Classification
-
+![dermamnist](images/dermamnist.png)
 [View Project Here](https://samkchan815.github.io/projects/DermaMNIST_Multiclass_Classification.html)
 
 Using the DermaMNIST dataset, this project uses a convolutional neural network to classify dermatological images into seven skin lesion categories. The dataset contains approximately 10,000 dermatoscope images. The CNN utilizes convolutional and pooling layers for hierarchical feature extraction, combined with activation functions and dropout layers to improve learning and prevent overfitting.
 
 
 ### Parkinson's Telemonitoring
-
+![svr](images/svr.jpg)
 [View Report Here](https://samkchan815.github.io/projects/Parkinsons_Telemonitoring_SVR.ipynb)
 
 This project analyzes the Parkinson’s Telemonitoring dataset, which consists of biomedical voice measurements collected from 42 individuals with early-stage Parkinson’s disease enrolled in a six-month remote monitoring trial. Through feature selection and exploratory data analysis, key vocal biomarkers associated with disease severity were identified. Support Vector Regression (SVR) was then applied to predict the Total Unified Parkinson’s Disease Rating Scale (UPDRS) score, demonstrating the potential of voice-based signals for tracking disease progression in a telehealth setting.
