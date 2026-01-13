@@ -10,7 +10,7 @@ The nerve segmentation analysis involved developing a comprehensive image analys
 
 ### DermaMNIST Multi_Class Classification
 
-[View Project Here](https://samkchan815.github.io/DermaMNIST_Multiclass_Classification.html)
+[View Project Here](https://samkchan815.github.io/samkchan815.github.io/DermaMNIST_Multiclass_Classification.html)
 
 Using the DermaMNIST dataset, this project uses a convolutional neural network to classify dermatological images into seven skin lesion categories. The dataset contains approximately 10,000 dermatoscope images. The CNN utilizes convolutional and pooling layers for hierarchical feature extraction, combined with activation functions and dropout layers to improve learning and prevent overfitting.
 
