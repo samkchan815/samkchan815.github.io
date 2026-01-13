@@ -1,6 +1,6 @@
-# Samantha Chan
+# Welcome!
 
-Welcome! My name is Samantha Chan and I am currently a Health Data Science Master's student at University of California, San Francisco (UCSF). Primarily using Python and R programming, my work focuses on image processing, quantitative analysis, statistical modeling, and machine learning to extract insights from health and biomedical datasets. My current research utilizes CT and MRI image processing to investigate how the trajectory of deep brain stimulation (DBS) leads affects outcomes in patients with Parkinson’s disease.
+My name is Samantha Chan and I am currently a Health Data Science Master's student at University of California, San Francisco (UCSF). Primarily using Python and R programming, my work focuses on image processing, quantitative analysis, statistical modeling, and machine learning to extract insights from health and biomedical datasets. My current research utilizes CT and MRI image processing to investigate how the trajectory of deep brain stimulation (DBS) leads affects outcomes in patients with Parkinson’s disease.
 
 ## Projects
 ### Da Vinci Nerve Fiber Microscopy Image Analysis
