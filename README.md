@@ -34,7 +34,7 @@ This project analyzes the Parkinson’s Telemonitoring dataset, which consists o
 
 This personal project explores deep learning–based classification of major and minor piano and guitar chords. I designed and implemented a pipeline that extracts chroma features from raw audio files and trains a 1D convolutional neural network to distinguish between major and minor chords. The current implementation focuses on isolated chord samples to establish a reliable baseline model and evaluation framework. Future extensions of this work will expand the model to detect specific chords such as A major, G minor, F# Major, etc. with the goal of eventually operating on full song audio.
 
-[View Project Here](https://samkchan815.github.io/projects/Chord-Detector.html)
+[View Project Here](https://samkchan815.github.io/projects/Chord_Detector.html)
 
 
 ## Education								       		
