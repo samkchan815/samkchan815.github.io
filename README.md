@@ -9,7 +9,7 @@ The nerve segmentation analysis involved developing a comprehensive image analys
 
 ![Nerve Fiber Image](images/Innervation.png)
 
-[Github Repository](https://github.com/Gomez-Lab/Neuronal-Image-Processing)
+[View Project Here](https://github.com/Gomez-Lab/Neuronal-Image-Processing)
 
 
 ### DermaMNIST Multi_Class Classification
@@ -34,7 +34,7 @@ This project analyzes the Parkinson’s Telemonitoring dataset, which consists o
 
 This personal project explores deep learning–based classification of major and minor piano and guitar chords. I designed and implemented a pipeline that extracts chroma features from raw audio files and trains a 1D convolutional neural network to distinguish between major and minor chords. The current implementation focuses on isolated chord samples to establish a reliable baseline model and evaluation framework. Future extensions of this work will expand the model to detect specific chords such as A major, G minor, F# Major, etc. with the goal of eventually operating on full song audio.
 
-[Github Repository](https://github.com/samkchan815/Chord-Classification)
+[View Project Here](https://samkchan815.github.io/projects/Chord-Detector.html)
 
 
 ## Education								       		
