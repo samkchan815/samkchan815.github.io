@@ -32,7 +32,7 @@ This project analyzes the Parkinson’s Telemonitoring dataset, which consists o
 
 ### Musical Instrument Major and Minor Chord Classification
 
-This project explores deep learning–based classification of guitar chords using audio-derived spectrograms. I designed and implemented an end-to-end pipeline that extracts chroma features from raw audio files and trains a 1D convolutional neural network to distinguish between major and minor chords. The current implementation focuses on isolated chord samples to establish a reliable baseline model and evaluation framework. Future extensions of this work will expand the model to detect specific chords such as A major, G minor, F# Major, etc. with the goal of eventually operating on full song audio.
+This personal project explores deep learning–based classification of guitar chords using audio-derived spectrograms. I designed and implemented an end-to-end pipeline that extracts chroma features from raw audio files and trains a 1D convolutional neural network to distinguish between major and minor chords. The current implementation focuses on isolated chord samples to establish a reliable baseline model and evaluation framework. Future extensions of this work will expand the model to detect specific chords such as A major, G minor, F# Major, etc. with the goal of eventually operating on full song audio.
 
 [Github Repository](https://github.com/samkchan815/Chord-Classification)
 
