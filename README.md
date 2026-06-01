@@ -3,6 +3,13 @@
 My name is Samantha Chan and I am currently a Health Data Science Master's student at University of California, San Francisco (UCSF). Primarily using Python and R programming, my work focuses on image processing, quantitative analysis, statistical modeling, and machine learning to extract insights from health and biomedical datasets. My current research utilizes CT and MRI image processing to investigate how the trajectory of deep brain stimulation (DBS) leads affects outcomes in patients with Parkinson’s disease.
 
 ## Projects
+### DBS Lead Trajectory in Parkinson's Disease
+
+This atlas-based neuroimaging pipeline investigates how deep brain stimulation (DBS) lead trajectories influence postoperative motor and cognitive outcomes in Parkinson’s disease. The workflow integrated medical image registration, brain atlas mapping, feature extraction from 3D lead segmentations, and stability-selected machine learning models. Results demonstrated that potential of brain region features.
+
+![DBS Image](DBS_Image.png)
+[View Project Here](https://github.com/Radiology-Morrison-lab-UCSF/DBS-Lead-Trajectory)
+
 ### Da Vinci Nerve Fiber Microscopy Image Analysis
 
 The nerve segmentation analysis involved developing a comprehensive image analysis pipeline to quantify nerve fibers in pig skin microscopy images. Approximately 100 raw z-stack tissue images were first preprocessed to enhance quality and consistency, testing multiple denoising and normalization methods to determine optimal approaches. Downstream analyses extracted quantitative metrics such as fiber density, length, and orientation. The pipeline integrated image preprocessing, segmentation, and statistical analysis, allowing reproducible and scalable evaluation of nerve morphology for research and computational modeling.
