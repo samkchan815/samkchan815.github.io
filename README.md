@@ -7,7 +7,7 @@ My name is Samantha Chan and I am currently a Health Data Science Master's stude
 
 This atlas-based neuroimaging pipeline investigates how deep brain stimulation (DBS) lead trajectories influence postoperative motor and cognitive outcomes in Parkinson’s disease. The workflow integrated medical image registration, brain atlas mapping, feature extraction from 3D lead segmentations, and stability-selected machine learning models. Results demonstrated that potential of brain region features.
 
-![DBS Image](images/DBS_image.png)
+![DBS Image](images/DBS_image.png) 
 
 [View Project Here](https://github.com/Radiology-Morrison-lab-UCSF/DBS-Lead-Trajectory)
 
