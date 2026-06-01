@@ -86,7 +86,7 @@ therapy data, improving predictive performance for movement trajectories.
 enabling faster analysis of VR and physical therapy biomechanics data.
 
 ## Publications
-Hsin-ya Yang, Kan Zhu, Anthony Gallegos, Cynthia Recendez, Guillermo Villa-Martinez, Ksenia Zlobina, Manasa Kesapragada, *Samantha Chan*, Juliann Hallum, Moyasar A. Alhamo, Athena M. Soulika, Elham Aslankoohi, Marco Rolandi, Marcella Gomez, Min Zhao, R. Rivkah Isseroff, Characterization of cutaneous wound healing in swine, JID Innovations, Volume 6, Issue 3, 2026, 100458, ISSN 2667-0267, https://doi.org/10.1016/j.xjidi.2026.100458.
+Hsin-ya Yang, Kan Zhu, Anthony Gallegos, Cynthia Recendez, Guillermo Villa-Martinez, Ksenia Zlobina, Manasa Kesapragada, **Samantha Chan**, Juliann Hallum, Moyasar A. Alhamo, Athena M. Soulika, Elham Aslankoohi, Marco Rolandi, Marcella Gomez, Min Zhao, R. Rivkah Isseroff, Characterization of cutaneous wound healing in swine, JID Innovations, Volume 6, Issue 3, 2026, 100458, ISSN 2667-0267, https://doi.org/10.1016/j.xjidi.2026.100458.
 
 ## Teaching
 **Teaching Assistant @ University of California San Francisco (Winter 2026)**
