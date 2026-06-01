@@ -14,7 +14,7 @@ This atlas-based neuroimaging pipeline investigates how deep brain stimulation (
 
 The nerve segmentation analysis involved developing a comprehensive image analysis pipeline to quantify nerve fibers in pig skin microscopy images. Approximately 100 raw z-stack tissue images were first preprocessed to enhance quality and consistency, testing multiple denoising and normalization methods to determine optimal approaches. Downstream analyses extracted quantitative metrics such as fiber density, length, and orientation. The pipeline integrated image preprocessing, segmentation, and statistical analysis, allowing reproducible and scalable evaluation of nerve morphology for research and computational modeling.
 
-![Nerve Fiber Image](images/Innervation.png)
+![Nerve Fiber image](images/Innervation.png)
 
 [View Project Here](https://github.com/Gomez-Lab/Neuronal-Image-Processing)
 
