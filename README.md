@@ -92,6 +92,6 @@ Hsin-ya Yang, Kan Zhu, Anthony Gallegos, Cynthia Recendez, Guillermo Villa-Marti
 **Teaching Assistant @ University of California San Francisco (Winter 2026)**
 DATASCI 223: Applied Data Science with Python
 
-**Private Tutor (March 2023 - Present)**
+**Private Tutor (March 2023 - April 2026)**
 Provide targeted English reading, speaking, and listening instruction that helped two students successfully pass the California English Language Proficiency Assessments (ELPAC).
 
